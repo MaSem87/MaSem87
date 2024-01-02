@@ -1,12 +1,17 @@
-### I'm a full-stack developer, natural scientist and a tech enthusiast! 
-
-
 <style>
   body {
     background-color: black;
     color: white;
   }
 </style>
+
+
+
+
+### I'm a full-stack developer, natural scientist and a tech enthusiast! 
+
+
+
 
 
 <!--
