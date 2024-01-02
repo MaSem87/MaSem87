@@ -10,10 +10,9 @@
 - 💬 Ask me something about Star Trek
 - 👨🏻 Pronouns: He/Him
 - 📫 How to reach me: marco-se@web.de
-- ⚡ Fun fact: ...
 
 <br>
 
 #### Languages and Tools:
 
-![Python](https://github.com/MaSem87/MaSem87/blob/master/python.png)
+![Python](https://github.com/MaSem87/MaSem87/blob/master/python2.png)
