@@ -18,20 +18,21 @@
 
 #### Languages and Tools:
 
-![Static Badge](https://img.shields.io/badge/Python-black?logo=python)
-![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript)
-![Static Badge](https://img.shields.io/badge/Django-black?logo=django)
-![Static Badge](https://img.shields.io/badge/HTML-black?logo=html5)
-![Static Badge](https://img.shields.io/badge/CSS-black?logo=css3)
-![Static Badge](https://img.shields.io/badge/jQuery-black?logo=jQuery)
-![Static Badge](https://img.shields.io/badge/Bootstrap-black?logo=Bootstrap)
-![Static Badge](https://img.shields.io/badge/PostGreSQL-black?logo=PostGreSQL)
-![Static Badge](https://img.shields.io/badge/MySQL-black?logo=mysql)
-![Static Badge](https://img.shields.io/badge/PHP-black?logo=PHP)
-![Static Badge](https://img.shields.io/badge/Wordpress-black?logo=Wordpress)
+![Static Badge](https://img.shields.io/badge/Python-black?style=flat&logo=python&labelColor=%23263238&color=%2392989b)
+![Static Badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&labelColor=%23263238&color=%2392989b)
+![Static Badge](https://img.shields.io/badge/HTML-black?style=flat&logo=html5&labelColor=%23263238&color=%2392989b)
+![Static Badge](https://img.shields.io/badge/CSS-black?style=flat&logo=css3&labelColor=%23263238&color=%2392989b)
+![Static Badge](https://img.shields.io/badge/Django-black?style=flat&logo=django&labelColor=%23263238&color=%2392989b)
+![Static Badge](https://img.shields.io/badge/PHP-black?style=flat&logo=Php&labelColor=%23263238&color=%2392989b)
+![Static Badge](https://img.shields.io/badge/Wordpress-black?style=flat&logo=wordpress&labelColor=%23263238&color=%2392989b)
+![Static Badge](https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap&labelColor=%23263238&color=%2392989b)
+![Static Badge](https://img.shields.io/badge/jQuery-black?style=flat&logo=jquery&labelColor=%23263238&color=%2392989b)
+![Static Badge](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&labelColor=%23263238&color=%2392989b)
+![Static Badge](https://img.shields.io/badge/PostGreSQL-black?style=flat&logo=PostGreSQL&labelColor=%23263238&color=%2392989b)
 <br>
-![Static Badge](https://img.shields.io/badge/Git-black?logo=GIT)
-![Static Badge](https://img.shields.io/badge/GitHub-black?logo=GITHUB)
+![Static Badge](https://img.shields.io/badge/Git-black?style=flat&logo=git&labelColor=%23263238&color=%2392989b)
+![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=%23263238&color=%2392989b)
+
 
 
 
