@@ -1,5 +1,5 @@
 
-### I'm a full-stack developer, natural scientist and a tech enthusiast! 
+### &#x270d; I'm a full-stack developer, natural scientist and a tech enthusiast! 
 
 <br>
 
