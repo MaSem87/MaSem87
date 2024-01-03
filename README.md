@@ -25,7 +25,6 @@
 ![Static Badge](https://img.shields.io/badge/CSS-black?logo=css3)
 ![Static Badge](https://img.shields.io/badge/jQuery-black?logo=jQuery)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-black?logo=Bootstrap)
-<br>
 ![Static Badge](https://img.shields.io/badge/PostGreSQL-black?logo=PostGreSQL)
 ![Static Badge](https://img.shields.io/badge/MySQL-black?logo=mysql)
 ![Static Badge](https://img.shields.io/badge/PHP-black?logo=PHP)
