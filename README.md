@@ -11,7 +11,7 @@
 - 🔎 I'm looking for help to develop myself further
 - 💬 Ask me something about Star Trek
 - 👨🏻 Pronouns: He/Him
-- 📫 How to reach me: marco-se@web.de
+- 📫 How to reach me: `marco-se@web.de`
 
 <br>
 
