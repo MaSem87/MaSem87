@@ -1,7 +1,9 @@
 
-### I'm a full-stack developer, natural scientist and a tech enthusiast! 
+## I'm a full-stack developer, natural scientist and a tech enthusiast! 
 
 <br>
+
+<img src="https://github.com/MaSem87/MaSem87/blob/master/Programming-rafiki.png" width="330px" height="330px" align="right"/>
 
 - 🔭 I'm currently working on further training to become a web developer
 - 🌱 I'm currently learning on the 'udemy' platform
@@ -12,6 +14,7 @@
 - 📫 How to reach me: marco-se@web.de
 
 <br>
+
 
 #### Languages and Tools:
 
