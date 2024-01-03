@@ -28,8 +28,8 @@
 ![Static Badge](https://img.shields.io/badge/PostGreSQL-black?logo=PostGreSQL)
 ![Static Badge](https://img.shields.io/badge/MySQL-black?logo=mysql)
 ![Static Badge](https://img.shields.io/badge/PHP-black?logo=PHP)
-<br>
 ![Static Badge](https://img.shields.io/badge/Wordpress-black?logo=Wordpress)
+<br>
 ![Static Badge](https://img.shields.io/badge/Git-black?logo=GIT)
 ![Static Badge](https://img.shields.io/badge/GitHub-black?logo=GITHUB)
 
