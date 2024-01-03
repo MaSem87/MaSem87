@@ -30,7 +30,6 @@
 ![Static Badge](https://img.shields.io/badge/PHP-black?logo=PHP)
 <br>
 ![Static Badge](https://img.shields.io/badge/Wordpress-black?logo=Wordpress)
-![Static Badge](https://img.shields.io/badge/PHP-black?logo=PHP)
 ![Static Badge](https://img.shields.io/badge/Git-black?logo=GIT)
 ![Static Badge](https://img.shields.io/badge/GitHub-black?logo=GITHUB)
 
