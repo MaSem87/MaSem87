@@ -22,8 +22,8 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&labelColor=%23263238&color=%2392989b)
 ![Static Badge](https://img.shields.io/badge/HTML-black?style=flat&logo=html5&labelColor=%23263238&color=%2392989b)
 ![Static Badge](https://img.shields.io/badge/CSS-black?style=flat&logo=css3&labelColor=%23263238&color=%2392989b)
-![Static Badge](https://img.shields.io/badge/Django-black?style=flat&logo=django&labelColor=%23263238&color=%2392989b)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap&labelColor=%23263238&color=%2392989b)
+![Static Badge](https://img.shields.io/badge/Django-black?style=flat&logo=django&labelColor=%23263238&color=%2392989b)
 <br>
 ![Static Badge](https://img.shields.io/badge/PostGreSQL-black?style=flat&logo=PostGreSQL&labelColor=%23263238&color=%2392989b)
 ![Static Badge](https://img.shields.io/badge/Git-black?style=flat&logo=git&labelColor=%23263238&color=%2392989b)
