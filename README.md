@@ -1,17 +1,17 @@
 
-## I'm a full-stack developer, natural scientist and a tech enthusiast! 
+## I'm a webdesigner, natural scientist and a tech enthusiast! 
 
 <br>
 
 <img src="https://github.com/MaSem87/MaSem87/blob/master/Programming-rafiki.png" width="330px" height="330px" align="right"/>
 
-- 🔭 I'm currently working on further training to become a web developer
+- 💻 I am a freelance webdesigner: https://www.semmelroth-webdesign.de
+- 🔭 I continue to educate myself to become a better webdesigner
 - 🌱 I'm currently learning on the 'udemy' platform
-- 👯 I'm looking for an internship to improve my skills
-- 🔎 I'm looking for help to develop myself further
+- 👯 I am looking for a job to improve my skills
 - 💬 Ask me something about Star Trek
 - 👨🏻 Pronouns: He/Him
-- 📫 How to reach me: `marco-se@web.de`
+- 📫 How to reach me: info@semmelroth-webdesign.de
 
 <br>
 
@@ -25,7 +25,7 @@
 ![Static Badge](https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap&labelColor=%23263238&color=%2392989b)
 ![Static Badge](https://img.shields.io/badge/Django-black?style=flat&logo=django&labelColor=%23263238&color=%2392989b)
 <br>
-![Static Badge](https://img.shields.io/badge/PostGreSQL-black?style=flat&logo=PostGreSQL&labelColor=%23263238&color=%2392989b)
+![Static Badge](https://img.shields.io/badge/Wordpress-black?style=flat&logo=PostGreSQL&labelColor=%23263238&color=%2392989b)
 ![Static Badge](https://img.shields.io/badge/Git-black?style=flat&logo=git&labelColor=%23263238&color=%2392989b)
 ![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=%23263238&color=%2392989b)
 
