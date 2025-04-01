@@ -5,7 +5,7 @@
 
 <img src="https://github.com/MaSem87/MaSem87/blob/master/Programming-rafiki.png" width="330px" height="330px" align="right"/>
 
-- 💻 I am a freelance web designer: [Visit my website](https://www.semmelroth-webdesign.de)
+- 💻 I am a freelance web designer: [Visit my website](https://semmelroth-webdesign.de/)
 
 - 🔭 I continue to educate myself to become a better web designer
 - 🌱 I'm currently learning on the 'udemy' platform
